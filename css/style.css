@@ -93,7 +93,7 @@ img {
     .box-1 {
         position: absolute;
         bottom: -120px;
-        left: -400px;
+        left: -275px;
         max-width: 72%;
     }
     .box-2 {
@@ -109,7 +109,7 @@ img {
     .box-4 {
         /* position: absolute; */
         bottom: -120px;
-        right: -500px;
+        right: -350px;
         max-width: 72%;
     }
     footer {
