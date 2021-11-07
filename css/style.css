@@ -99,7 +99,7 @@ footer {
         grid-auto-flow: column;
         gap: 20px;
         width: 100%;
-        max-width: 95%;
+        max-width: 75%;
         height: 230px;
     }
     .box {
